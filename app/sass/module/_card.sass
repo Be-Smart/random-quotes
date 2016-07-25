@@ -1,0 +1,50 @@
+.quote__card
+  background: black
+  opacity: .7
+  margin: auto
+  padding: 30px
+  border-radius: 5px
+  +container(500px)
+  +breakpoint($md__brkpoint)
+    width: 500px
+
+.quote
+  color: $white
+  text-align: center
+  margin-top: 0
+  +breakpoint($md__brkpoint)
+    font-size: em(26px)
+
+.quote__author
+  font-size: em(18px)
+  text-align: right
+
+.quote__img
+  display: block
+  width: 50px
+  margin: 15px auto 0
+  +breakpoint($sm__brkpoint)
+    +span(1 of 10)
+    margin-top: 0
+
+.quote__btn
+  background: $cyan
+  color: $white
+  border: none
+  border-radius: 5px
+  padding: 10px
+  width: 100%
+  font-size: em(20px)
+  transition: all .3s ease
+  &:hover
+    background: $cyan-light
+  +breakpoint($sm__brkpoint)
+    +span(3 of 10 last)
+    font-size: em(18px)
+
+.icon
+  fill: $cyan
+  transition: all .5s ease
+  &:hover
+    fill: $cyan-light
+    transform: rotate(360deg)

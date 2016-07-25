@@ -1,0 +1,124 @@
+{
+  "quotes": [{
+      "quote": "The starting point of all achievement is desire. Keep this constantly in mind. Weak desire brings weak results, just as small fire makes a small amount of heat.",
+      "author": "Napoleon Hill"
+    },
+    {
+      "quote": "Everything I did could have been my hobby. It was my hobby in a way. I was passionate about all off it. My definition of living is to have excitement always; that's the difference between living and existing.",
+      "author": "Arnold Schwarzenegger"
+    },
+    {
+      "quote": "You, me, or nobody is gonna hit as hard as life. But it ain't about how hard ya hit. It's about how hard you can get it and keep moving forward. How much you can take and keep moving forward. That's how winning is done!",
+      "author": "Rocky Balboa"
+    },
+    {
+      "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.",
+      "author": "Steve Jobs"
+    },
+    {
+      "quote": "For the past 33 years, I have looked in the mirror every morning and asked myself: 'If today were the last day of my life, would I want to do what I am about to do today?' And whenever the answer has been 'No' for too many days in a row, I know I need to change something.",
+      "author": "Steve Jobs"
+    },
+    {
+      "quote": "What we think, we become.",
+      "author": "Buddha"
+    },
+    {
+      "quote": "If you always put limit on everything you do, physical or anything else. It will spread into your work and into your life. There are no limits. There are only plateaus, and you must not stay there, you must go beyond them.",
+      "author": "Bruce Lee"
+    },
+    {
+      "quote": "Start where you are. Use what you have. Do what you can.",
+      "author": "Arthur Ashe"
+    },
+    {
+      "quote": "Learn the rules like a pro, so you can break them like an artist.",
+      "author": "Pablo Picasso"
+    },
+    {
+      "quote": "The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.",
+      "author": "Robert Kiyosaki"
+    },
+    {
+      "quote": "To improve is to change; to be perfect is to change often.",
+      "author": "Winston Churchill"
+    },
+    {
+      "quote": "Life is really simple, but we insist on making it complicated.",
+      "author": "Confucius"
+    },
+    {
+      "quote": "Choose a job you love, and you will never have to work a day in your life.",
+      "author": "Confucius"
+    },
+    {
+      "quote": "Life is a mirror and will reflect back to the thinker what he thinks into it.",
+      "author": "Ernest Holmes"
+    },
+    {
+      "quote": "Don't let someone else's opinion of you become your reality.",
+      "author": "Less Brown"
+    },
+    {
+      "quote": "Pleasure in the job puts perfection in the work.",
+      "author": "Aristotle"
+    },
+    {
+      "quote": "Only two things are infinite, the universe and human stupidity, and I'm not sure about the former.",
+      "author": "Albert Einstein"
+    },
+    {
+      "quote": "Don't limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve.",
+      "author": "Mary Kay Ash"
+    },
+    {
+      "quote": "Raise your standarts.",
+      "author": "Tony Robbins"
+    },
+    {
+      "quote": "You must do the things you think you cannot do.",
+      "author": "Eleanor Roosevelt"
+    }
+  ],
+  "images": [{
+      "id": 1,
+      "path": "app/img/bg-img/1.jpg"
+    },
+    {
+      "id": 2,
+      "path": "app/img/bg-img/2.jpg"
+    },
+    {
+      "id": 3,
+      "path": "app/img/bg-img/3.jpg"
+    },
+    {
+      "id": 4,
+      "path": "app/img/bg-img/4.jpg"
+    },
+    {
+      "id": 5,
+      "path": "app/img/bg-img/5.jpg"
+    },
+    {
+      "id": 6,
+      "path": "app/img/bg-img/6.jpg"
+    },
+    {
+      "id": 7,
+      "path": "app/img/bg-img/7.jpg"
+    },
+    {
+      "id": 8,
+      "path": "app/img/bg-img/8.jpg"
+    },
+    {
+      "id": 9,
+      "path": "app/img/bg-img/9.jpg"
+    },
+    {
+      "id": 10,
+      "path": "app/img/bg-img/10.jpg"
+    }
+  ]
+}
