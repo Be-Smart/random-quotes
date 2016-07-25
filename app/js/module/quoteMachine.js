@@ -4,7 +4,7 @@ var quoteEl = document.getElementsByClassName('quote')[0];
 var quoteAuthor = document.getElementsByClassName('quote__author')[0];
 var btn = document.getElementsByClassName('quote__btn')[0];
 var body = document.getElementsByTagName('body')[0];
-var tweetIcon = document.getElementsByClassName('quote__img')[0]
+var tweetIcon = document.getElementsByClassName('quote__img')[0];
 
 document.addEventListener('DOMContentLoaded', getQuote);
 btn.addEventListener('click', getQuote);
