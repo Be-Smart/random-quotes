@@ -1,2 +1,2 @@
-# Starter Kit
-This is a simple template for quick start.
+# Random Quote Machine
+Free Code Camp project.
